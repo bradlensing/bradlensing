@@ -10,15 +10,13 @@
 
 My name is Brad Lensing and I am a Software Developer and Data Engineer. Living near Dallas, TX I have a passion for technology and data. I love building projects that merge these two passions to solve problems, get answers and impact all of society.
 
-<div style="text-align:center">
+<div align='center'>
 
 You can find me at
 
 <a href="" target="_blank"><img src='https://img.shields.io/badge/-Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2'></a> <a href="" target="_blank"></a><img src='https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2'></a>
 
 <div>
-
-<div style="text-align:left"><div>
 
 🌱 **Currently working on:** Online booking application.
 
@@ -32,7 +30,7 @@ You can find me at
 
 ## 🔧 **Tools & Technologies**
 
-<table style="align:center;border:none;">
+<table align='center'>
     <tr>
         <th>Languages</th>
         <th>Frontend</th>
