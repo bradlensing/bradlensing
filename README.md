@@ -1,6 +1,10 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
+<p align='center'>
+
 [![Header](./resources/images/gitBanner-02.png 'Header')]()
+
+</p>
 
 ## <p align='center'> Hi, welcome to my GitHub <img src="./resources/images/wave.gif" width="30px"></p>
 
@@ -9,6 +13,7 @@
 My name is Brad Lensing and I am a Software Developer and Data Engineer. Living near Dallas, TX I have a passion for technology and data. I love building projects that merge these two passions to solve problems, get answers and impact all of society.
 
 <div style="text-align:center">
+
 You can find me at
 
 <a href="" target="_blank"><img src='https://img.shields.io/badge/-Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2'></a> <a href="" target="_blank"></a><img src='https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2'></a>
