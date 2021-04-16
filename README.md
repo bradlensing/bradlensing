@@ -95,7 +95,9 @@ You can find me at
 
 ## <hr>
 
-## <p align='left'>⚙️ &nbsp;GitHub Analytics</p>
+<div align='left'>
+
+## ⚙️ &nbsp;GitHub Analytics
 
 [![GitHub contributors](https://img.shields.io/github/contributors/bradlensing/bradlensing)](https://github.com/bradlensing/bradlensing/graphs/contributors)
 [![HitCount](https://views.whatilearened.today/views/github/bradlensing/bradlensing.svg)](https://github.com/bradlensing/bradlensing)
