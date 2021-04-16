@@ -18,6 +18,8 @@ You can find me at
 
 <div>
 
+<div align='left'>
+
 🌱 **Currently working on:** Online booking application.
 
 🧠 **Currently learning:** Udacity Data Engineer Nano Degree.
@@ -29,6 +31,8 @@ You can find me at
 ## <hr>
 
 ## 🔧 **Tools & Technologies**
+
+</div>
 
 <table align='center'>
     <tr>
