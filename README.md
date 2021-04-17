@@ -14,7 +14,7 @@ My name is Brad Lensing and I am a Software Developer and Data Engineer. Living 
 
 You can find me at
 
-<a href="https://twitter.com/bradlensing" target="_blank"><img src='https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2'></a> <a href="https://www.linkedin.com/in/blensing/" target="_blank"></a><img src='https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2'></a>
+<a href="https://twitter.com/bradlensing" target="_blank"><img src='https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2'></a> <a href="https://www.linkedin.com/in/blensing/" target="_blank"><img src='https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2'></a>
 
 <div>
 
