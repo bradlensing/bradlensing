@@ -81,14 +81,7 @@ You can find me at
         <td></td>
         <td><img src='https://img.shields.io/badge/-NextJS-informational?style=flat&logo=next.js&logoColor=white&color=000000'></td>
         <td><img src='https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql&logoColor=black&color=4479A1'></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
         <td><img src='https://img.shields.io/badge/-Airflow-informational?style=flat&logo=apache-airflow&logoColor=black&color=017CEE'></td>
-        <td></td>
         <td></td>
     </tr>
 </table>
