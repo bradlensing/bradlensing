@@ -6,7 +6,7 @@
 
 ## <p align='center'> Hi, welcome to my GitHub <img src="./resources/images/wave.gif" width="30px"></p>
 
-My name is Brad Lensing and I am a Software Developer and Data Engineer. Living near Dallas, TX I have a passion for technology and data. I love building projects that merge these two passions to solve problems, get answers and impact all of society.
+Welcome to my GitHub! I'm an aspiring networking and system administrator passionate about building secure, efficient, and scalable IT infrastructures. I have a strong foundation in cybersecurity and network management, complemented by hands-on experience in cloud infrastructure with Microsoft Azure and AWS. Additionally, I bring knowledge in programming with Python, SQL, and PowerShell enabling me to develop and automate solutions for robust systems. Explore my repositories to see my projects and contributions in networking, system administration, cybersecurity, cloud technologies, and programming!
 
 <div align='center'>
 
@@ -18,13 +18,12 @@ You can find me at
 
 <div align='left'>
 
-🌱 **Currently working on:** Online booking application.
+🌱 **Currently working on:** Building out cloud networking projects.
 
-🧠 **Currently learning:** Udacity Data Engineer Nano Degree.
+🧠 **Currently learning:** Azure AZ-104
 
-📒 **Goals:** Advance my skill set in engineering data ETL processes and Advanced SQL Querying.
+📒 **Goals:** Advance my skill set network engineering, server management and database connectivity.
 
-⚡️ **Fun Fact:** I have skills from building houses to refueling nuclear power plants.
 
 ## <hr>
 
