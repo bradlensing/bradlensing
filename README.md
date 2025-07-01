@@ -22,7 +22,7 @@ You can find me at
 
 🧠 **Currently learning:** Azure AZ-104
 
-📒 **Goals:** Advance my skill set network engineering, server management and database connectivity.
+📒 **Goals:** Advance my skill set network engineering, server management.
 
 
 ## <hr>
