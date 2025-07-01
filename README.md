@@ -6,7 +6,7 @@
 
 ## <p align='center'> Hi, welcome to my GitHub <img src="./resources/images/wave.gif" width="30px"></p>
 
-Welcome to my GitHub! I'm an aspiring networking and system administrator passionate about building secure, efficient, and scalable IT infrastructures. I have a strong foundation in cybersecurity and network management, complemented by hands-on experience in cloud infrastructure with Microsoft Azure and AWS. Additionally, I bring knowledge in programming with Python, SQL, and PowerShell enabling me to develop and automate solutions for robust systems. Explore my repositories to see my projects and contributions in networking, system administration, cybersecurity, cloud technologies, and programming!
+I'm an aspiring networking and system administrator passionate about building secure, efficient, and scalable IT infrastructures. I have a strong foundation in cybersecurity and network management, complemented by hands-on experience in cloud infrastructure with Microsoft Azure and AWS. Additionally, I bring knowledge in programming with Python, SQL, and PowerShell enabling me to develop and automate solutions for robust systems. Explore my repositories to see my projects and contributions in networking, system administration, cybersecurity, cloud technologies, and programming!
 
 <div align='center'>
 
